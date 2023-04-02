@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tingyushieli
 - 👀 I’m interested in physics and the way to explain it using computing technology
-- 🌱 I’m currently learning numerical physics
+- 🌱 I’m currently learning bioinformatics, and mechine learninng
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me tingyushieli @ gmail.com
 
